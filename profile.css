@@ -4,7 +4,14 @@ body {
 h1 {
     color: green;
 }
-  section {
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 16px;
+}
+
+  li {
       background: greenyellow;
   }
   h2 {
